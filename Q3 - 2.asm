@@ -1,0 +1,5 @@
+MOV R1, #30H
+MOV A, @R1
+MOV R1, A
+MOV A, @R1
+MOV R2, A
