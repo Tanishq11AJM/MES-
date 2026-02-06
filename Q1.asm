@@ -1,0 +1,15 @@
+MOV A, #0AH
+
+MOV R1, #07H
+
+ADD A, R1
+
+INC A
+
+MOV R1, #12H
+
+MOV B, A
+
+ADD A, #84H
+
+SUBB A, #12H
