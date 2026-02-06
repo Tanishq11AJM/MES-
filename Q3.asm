@@ -1,0 +1,5 @@
+MOV 30H, #40H
+MOV 40H, #55H
+
+MOV A, 30H
+MOV R0, A
